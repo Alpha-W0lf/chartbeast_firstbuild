@@ -6,7 +6,7 @@ const Layout = ({ children, title = 'Chart Beast' }) => {
     <div className='layout'>
       <Head>
         <title>{title}</title>
-        <link rel='icon' href='/chartbeast_head.png' />
+        <link rel='icon' href='/chartbeast_head.jpg' />
       </Head>
       <header className='header'>
         <Link href='/' passHref>
